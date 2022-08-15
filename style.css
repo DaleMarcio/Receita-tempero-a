@@ -7,6 +7,10 @@ h1 {
   color: gray;
 }
 
+a {
+  color: gray;
+}
+
 p {
   text-align: center;
   font-size: 30px;
